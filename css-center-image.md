@@ -4,18 +4,18 @@
 
 ![액자 틀에 담긴 풍경 사진](https://cdn-media-2.freecodecamp.org/w1280/5f9c9a4c740569d1a4ca24c2.jpg)
 
-영어 원문: [How to Center an Image Vertically and Horizontally with CSS](https://www.freecodecamp.org/news/how-to-center-an-image-in-css/)
+영어 원문: [How to Center an Image Vertically and Horizontally with CSS](https://www.freecodecamp.org/news/how-to-center-an-image-in-css/)<br>
 글쓴이: [Cem Eygi](https://www.freecodecamp.org/news/author/cemeygi/)
 
-### 많은 개발자들이 이미지 작업을 할 때 어려움을 느끼곤 합니다. [반응형](https://www.freecodecamp.org/news/css-responsive-image-tutorial/)과 정렬, 특히 이미지를 페이지 정중앙에 배치하는 것을 특히 어려워합니다.
+### 많은 개발자들이 이미지 작업을 할 때 어려움을 느끼곤 합니다. [반응형](https://www.freecodecamp.org/news/css-responsive-image-tutorial/)과 정렬, 특히 이미지를 페이지 정중앙에 배치하는 것을 어려워합니다.
 
 따라서 이 글에서는 CSS 속성을 사용해 이미지를 수직 및 수평으로 가운데 정렬할 수 있는 가장 일반적인 방법을 소개해 드리려고 합니다.
 
 CSS [Position](https://www.freecodecamp.org/news/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26/)과 [Display](https://www.youtube.com/watch?v=hgoFi0fCv3w) 속성은 이전 글에서 다룬 적이 있습니다. 아직 이 속성들이 낯설게 느껴지신다면, 이번 글을 읽기 전에 이전 포스트를 읽어보시길 추천해 드립니다.
 
-관심 있는 분들을 위해 영상 버전도 첨부합니다:
+관심 있는 분들을 위해 영상 버전도 첨부합니다:<br>
+[![Video Label](https://img.youtube.com/vi/mwVNVxpkly0/0.jpg)](https://www.youtube.com/watch?v=mwVNVxpkly0?t=0s)
 
-<iframe width="730" height="411" src="https://www.youtube.com/embed/mwVNVxpkly0" title="CSS Centering Images - How to Center Images Vertically and Horizontally?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 이미지 수평 가운데 정렬하기
 
@@ -23,7 +23,7 @@ CSS [Position](https://www.freecodecamp.org/news/how-to-use-the-position-propert
 
 ### Text-Align
 
-이미지를 가로 중앙에 배치할 수 있는 첫 번째 방법은 `text-align`속성을 이용하는 것입니다. 하지만 이 방법은 이미지가 `<div>`와 같은 블록 레벨 컨테이너 안에 있을 때만 작동합니다:
+이미지를 가로 중앙에 배치할 수 있는 첫 번째 방법은 `text-align` 속성을 이용하는 것입니다. 하지만 이 방법은 이미지가 `<div>`와 같은 블록 레벨 컨테이너 안에 있을 때만 작동합니다:
 
 ```
 <style>
@@ -171,7 +171,7 @@ img {
 }
 ```
 
-이미지를 수직 및 수평으로 가운데 정렬할 수 있는 방법들이 더 있지만 가장 일반적인 방법들을 소개해 드렸습니다. 이 글이 이미지를 페이지 정중앙에 배치할 수 있는 방법을 이해하는 데 도움이 되었으면 좋겠습니다.
+이미지를 수직 및 수평으로 가운데 정렬할 수 있는 방법들이 더 있지만 가장 일반적인 방법들을 소개해 드렸습니다. 이 글이 이미지를 페이지 정중앙에 배치할 수 있는 방법을 이해하는 데 도움이 되었으면 좋겠습니다. 영어 원문을 읽고 싶으시다면 [How to Center an Image Vertically and Horizontally with CSS](https://www.freecodecamp.org/news/how-to-center-an-image-in-css/)를 읽어보세요.
 
 **웹 개발을 더 공부하고 싶으시다면 제 [유튜브 채널](https://www.youtube.com/channel/UC1EgYPCvKCXFn8HlpoJwY3Q?view_as=subscriber)을 방문해 주세요.**
 
