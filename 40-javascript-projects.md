@@ -11,7 +11,7 @@
 
 초보자들이 바닐라 자바스크립트, 리액트, 타입스크립트로 만들 수 있는 40가지의 프로젝트 튜토리얼을 만들었습니다.
 
-제가 추천하는 방법은 영상을 보고, 프로젝트를 만들어보고, 분리해보고 자신만의 방법으로 다시 만들어보는 것입니다. 새로운 기능을 추가해보거나 다른 방법을 사용해서 구현해보세요.
+제가 추천하는 방법은 영상을 보고 프로젝트를 만든 뒤, 지워보고 자신만의 방법으로 다시 만들어보는 것입니다. 새로운 기능을 추가해보거나 다른 방법을 사용해서 구현해보세요.
 
 이렇게 함으로써 개념을 잘 이해했는지 확인할 수 있을 것입니다.
 
@@ -19,7 +19,7 @@
 
 ## 바닐라 자바스크립트 프로젝트
 
-1. [컬러 플리퍼 만들기](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper)
+1. [Color FLipper 만들기](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper)
 2. [카운터 만들기](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-counter)
 3. [리뷰 캐러셀 만들기](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel)
 4. [반응형 내비게이션 바 만들기](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-responsive-navbar)
@@ -76,7 +76,13 @@
 
 ![color flipper](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/color-flipper.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+[John Smilga의 튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s)에서는 랜덤으로 배경색을 바꿀 수 있는 Color Flipper를 어떻게 만드는지 설명하고 있습니다. Color Flipper는 DOM을 처음 연습하기에 좋은 프로젝트입니다.
+
+DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://www.freecodecamp.org/news/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d/#:~:text=Advantages,the%20page%20without%20a%20refresh.)에서는 이렇게 설명하고 있습니다.
+
+> DOM을 조작하면 무한한 가능성이 열립니다. 새로고침을 하지 않아도 페이지에서 데이터를 업데이트해주는 애플리케이션을 만들 수 있습니다. 사용자가 커스터마이즈할 수 있는 애플리케이션을 만들 수도 있고, 새로고침 없이 페이지의 레이아웃을 변경할 수도 있습니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - arrays
 - document.getElementById()
@@ -87,11 +93,17 @@
 - Math.random()
 - array.length
 
+프로젝트 시작 전에, John이 모든 프로젝트의 설정 파일에 액세스하는 방법을 설명해주는 이 [영상](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=0s)을 먼저 보시길 추천드립니다.
+
 ### 카운터 만들기
 
 ![카운터](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/counter.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+[John Smilga의 튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s)에서는 양수인지 음수인지에 따라 색상이 바뀌는 카운터를 만드는 방법에 대해 설명하고 있습니다.
+
+이 프로젝트를 통해 DOM 작업을 더 연습해볼 수 있으며, 뽀모도로 시계와 같은 다른 프로젝트에서도 이 간단한 카운터를 이용할 수 있을 것입니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - document.querySelectorAll()
 - forEach()
@@ -104,7 +116,11 @@
 
 ![리뷰 캐러셀](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/reviews.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s)에서는 버튼을 누르면 랜덤으로 리뷰를 보여주는 리뷰 캐러셀을 만드는 방법에 대해 배워볼 수 있습니다.
+
+이 기능은 고객 후기를 보여주는 전자 상거래 사이트나 개인 포트폴리오에서 유용하게 쓰일 수 있습니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - 객체
 - DOMContentLoaded
@@ -112,11 +128,15 @@
 - array.length
 - textContent
 
-### 반응형 내비게이션 바 만들기
+### 반응형 내비게이션바 만들기
 
-![내비게이션 바](https://www.freecodecamp.org/news/content/images/2021/03/navbar-1.png)
+![내비게이션바](https://www.freecodecamp.org/news/content/images/2021/03/navbar-1.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=4289s)에서는 작은 전자 기기에서 햄버거 메뉴로 바뀌는 반응형 내비게이션바를 만드는 법에 대해 소개하고 있습니다.
+
+웹 개발자가 반응형 웹 사이트를 만들 줄 아는 것은 중요한 요소입니다. 이 기능은 많은 웹 사이트에서 사용되고 있습니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - document.querySelector()
 - addEventListener()
@@ -126,7 +146,11 @@
 
 ![사이드바](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/sidebar.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=5181s)에서는 애니메이션으로 사이드바 만드는 방법을 소개하고 있습니다.
+
+개인 웹 사이트에 추가할 수 있는 아주 멋진 기능입니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - document.querySelector()
 - addEventListener()
@@ -137,7 +161,11 @@
 
 ![모달](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/modal.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=5943s)에서는 사용자들이 웹 사이트에서 특정한 무언가를 하거나 보기 위해 사용되는 모달창을 만드는 법에 대해 소개합니다.
+
+모달 창이 사용되는 좋은 예시는 사용자가 사이트에서 무언가를 변경하고 저장하지 않은 채 다른 페이지로 이동할 때의 경우입니다. 변경 사항을 저장하지 않으면 정보가 삭제될 수 있다고 경고하는 모달 창을 만들 수 있는 것이죠.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - document.querySelector()
 - addEventListener()
@@ -148,7 +176,9 @@
 
 ![FAQ 페이지](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/FAQ-section.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=6506s)에서는 FAQ(자주 묻는 질문) 페이지를 만드는 방법에 대해 소개합니다. 사용자들에게 사업 내용을 알려주고 유기적인 검색 결과를 통해 웹 사이트로 유입시키고자 할 때 사용됩니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - document.querySelectorAll()
 - addEventListener()
@@ -160,7 +190,13 @@
 
 ![식당 메뉴판](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/menu.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s)에서는 레스토랑의 메뉴를 필터링 해주는 페이지를 만드는 법에 대해 소개합니다. 이 프로젝트는 재미 있으면서도 map, reduce, filter와 같은 고차 함수에 대해서도 학습할 수 있습니다.
+
+Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b/)에서 고차 함수를 다음과 같이 언급하고 있습니다.
+
+> 고차 함수의 가장 큰 이점은 엄청난 재사용성에 있습니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - 배열
 - 객체
@@ -174,7 +210,9 @@
 
 ![비디오 배경](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/video-1.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=11773s)에서는 play, pause 기능을 이용해 영상 배경을 만드는 방법에 대해서 소개하고 있습니다. 많은 웹 사이트에서 찾아볼 수 있는 기능이죠.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - document.querySelector()
 - addEventListener()
@@ -188,7 +226,11 @@
 
 ![내비게이션 바](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/color-flipper.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이번 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)에서는 스크롤할 때 내려가다가 특정 높이에서 멈추는 네비게이션 바를 구현하고 있습니다.
+
+많은 전문 웹 사이트에서 찾아볼 수 있는 인기 있는 기능입니다.
+
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - document.getElementById()
 - getFullYear()
@@ -200,7 +242,7 @@
 
 ![히스토리 탭](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tabs.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - classList.add()
 - classList.remove()
@@ -211,7 +253,7 @@
 
 ![카운트다운 시계](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/countdown.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - getFullYear()
 - getMonth()
@@ -224,7 +266,7 @@
 
 ![lorem ipsum 생성기](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/lorem-ipsum.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - parseInt()
 - Math.floor()
@@ -237,7 +279,7 @@
 
 ![식료품 리스트](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/grocery-list.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - DOMContentLoaded
 - new Date()
@@ -251,7 +293,7 @@
 
 ![이미지 슬라이더](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/image-slider.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - querySelectorAll()
 - addEventListener()
@@ -262,7 +304,7 @@
 
 ![가위바위보 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/rock-paper-scissors.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - addEventListener()
 - Math.floor()
@@ -273,7 +315,7 @@
 
 ![사이먼 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/simon-game.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - querySelector()
 - addEventListener()
@@ -288,7 +330,7 @@
 
 ![플랫포머 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/platformer-game.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - this 키워드
 - for 반복문
@@ -301,7 +343,7 @@
 
 ![JS 튜토리얼 썸네일](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/doodle-jump.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - createElement()
 - forEach()
@@ -316,7 +358,7 @@
 
 ![Ania Kubow](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/7-js-games.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - for 반복문
 - onclick 이벤트
@@ -336,7 +378,7 @@
 
 ![틱택토 썸네일](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tic-tac-game-1.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - useState()
 - import / export
@@ -346,7 +388,7 @@
 
 ![테트리스 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/react-tetris-1.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - useState()
 - useEffect()
@@ -358,7 +400,7 @@
 
 ![생일 알림 앱](https://www.freecodecamp.org/news/content/images/2021/03/brithday-app.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - useState()
 - import / export
@@ -369,7 +411,7 @@
 
 ![color flipper](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tours-page.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - try...catch문
 - async/await
@@ -380,7 +422,7 @@
 
 ![아코디언 메뉴](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/accordion-react.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - 리액트 아이콘
 - useState()
@@ -390,7 +432,7 @@
 
 ![포트폴리오](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tabs-portfolio-page-react.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - async/await
 - 리액트 아이콘
@@ -401,7 +443,7 @@
 
 ![리뷰 슬라이더](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/react-slider.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - 리액트 아이콘
 - useEffect()
@@ -412,7 +454,7 @@
 
 ![컬러 제너레이터](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/react-color-generator.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - setTimeout()
 - clearTimeout()
@@ -425,7 +467,7 @@
 
 ![리뷰 슬라이더](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/stripe-page.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - 리액트 아이콘
 - useRef()
@@ -437,7 +479,7 @@
 
 ![장바구니 페이지](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/shopping-cart-page.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - map()
 - filter()
@@ -449,7 +491,7 @@
 
 ![칵테일 검색 페이지](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/cocktails-page.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - `<Router>`
 - `<Switch>`
@@ -464,7 +506,7 @@
 
 ![퀴즈 앱](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/quiz-app.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - React.FC
 - styled components
@@ -474,7 +516,7 @@
 
 ![알카노이드 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/akrnoid-game.png)
 
-다뤄지는 주요 개념은 다음과 같습니다:
+이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 - 타입
 - 클래스
