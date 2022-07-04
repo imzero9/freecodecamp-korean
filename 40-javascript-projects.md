@@ -84,14 +84,14 @@ DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- arrays
-- document.getElementById()
-- document.querySelector()
-- addEventListener()
-- document.body.style.backgroundColor
-- Math.floor()
-- Math.random()
-- array.length
+-   arrays
+-   document.getElementById()
+-   document.querySelector()
+-   addEventListener()
+-   document.body.style.backgroundColor
+-   Math.floor()
+-   Math.random()
+-   array.length
 
 프로젝트 시작 전에, John이 모든 프로젝트의 설정 파일에 액세스하는 방법을 설명해주는 이 [영상](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=0s)을 먼저 보시길 추천드립니다.
 
@@ -105,12 +105,12 @@ DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- document.querySelectorAll()
-- forEach()
-- addEventListener()
-- currentTarget 속성
-- classList
-- textContent
+-   document.querySelectorAll()
+-   forEach()
+-   addEventListener()
+-   currentTarget 속성
+-   classList
+-   textContent
 
 ### 리뷰 캐러셀 만들기
 
@@ -122,11 +122,11 @@ DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- 객체
-- DOMContentLoaded
-- addEventListener()
-- array.length
-- textContent
+-   객체
+-   DOMContentLoaded
+-   addEventListener()
+-   array.length
+-   textContent
 
 ### 반응형 내비게이션바 만들기
 
@@ -138,9 +138,9 @@ DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- document.querySelector()
-- addEventListener()
-- classList.toggle()
+-   document.querySelector()
+-   addEventListener()
+-   classList.toggle()
 
 ### 사이드바 만들기
 
@@ -152,10 +152,10 @@ DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- document.querySelector()
-- addEventListener()
-- classList.toggle()
-- classList.remove()
+-   document.querySelector()
+-   addEventListener()
+-   classList.toggle()
+-   classList.remove()
 
 ### 모달 만들기
 
@@ -167,10 +167,10 @@ DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- document.querySelector()
-- addEventListener()
-- classList.add()
-- classList.remove()
+-   document.querySelector()
+-   addEventListener()
+-   classList.add()
+-   classList.remove()
 
 ### FAQ 페이지 만들기
 
@@ -180,11 +180,11 @@ DOM을 공부해야 하는 이유에 대해 [Leonardo Maldonado의 글](https://
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- document.querySelectorAll()
-- addEventListener()
-- forEach()
-- classList.remove()
-- classList.toggle()
+-   document.querySelectorAll()
+-   addEventListener()
+-   forEach()
+-   classList.remove()
+-   classList.toggle()
 
 ### 식당 메뉴판 만들기
 
@@ -198,13 +198,13 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- 배열
-- 객체
-- forEach()
-- DOMContentLoaded
-- map, reduce, filter
-- innerHTML
-- includes 메서드
+-   배열
+-   객체
+-   forEach()
+-   DOMContentLoaded
+-   map, reduce, filter
+-   innerHTML
+-   includes 메서드
 
 ### 비디오 배경 만들기
 
@@ -214,13 +214,13 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- document.querySelector()
-- addEventListener()
-- classList.contains()
-- classList.add()
-- classList.remove()
-- play()
-- pause()
+-   document.querySelector()
+-   addEventListener()
+-   classList.contains()
+-   classList.add()
+-   classList.remove()
+-   play()
+-   pause()
 
 ### 스크롤바를 따라 움직이는 내비게이션 바 만들기
 
@@ -228,151 +228,187 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이번 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)에서는 스크롤할 때 내려가다가 특정 높이에서 멈추는 네비게이션 바를 구현하고 있습니다.
 
-많은 전문 웹 사이트에서 찾아볼 수 있는 인기 있는 기능입니다.
+많은 전문 웹 사이트에서 사용하고 있는 인기 기능입니다.
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- document.getElementById()
-- getFullYear()
-- getBoundingClientRect()
-- slice 메서드
-- window.scrollTo()
+-   document.getElementById()
+-   getFullYear()
+-   getBoundingClientRect()
+-   slice 메서드
+-   window.scrollTo()
 
 ### 다른 내용을 보여주는 탭 만들기
 
 ![히스토리 탭](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tabs.png)
 
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=16575s)은 서로 다른 내용을 보여주는 탭을 만드는 방법에 대해 소개하고 있습니다. 싱글 페이지 애플리케이션(SPA)을 만들 때 유용한 기능이죠.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- classList.add()
-- classList.remove()
-- forEach()
-- addEventListener()
+-   classList.add()
+-   classList.remove()
+-   forEach()
+-   addEventListener()
 
 ### 카운트다운 시계 만들기
 
 ![카운트다운 시계](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/countdown.png)
 
+이번 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17933s)은 카운트다운 시계를 만드는 방법에 대해 소개합니다. 전자 상거래 사이트에서 새로운 제품이 출시되거나 할인이 종료될 때 사용될 수 있는 기능이죠.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- getFullYear()
-- getMonth()
-- getDate()
-- Math.floor()
-- setInterval()
-- clearInterval()
+-   getFullYear()
+-   getMonth()
+-   getDate()
+-   Math.floor()
+-   setInterval()
+-   clearInterval()
 
 ### 나만의 Lorem ipsum 만들기
 
 ![lorem ipsum 생성기](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/lorem-ipsum.png)
 
+이번 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=21395s)에서는 나만의 Lorem ipsum을 만드는 방법에 대해 배울 수 있습니다.
+
+Lorem ipsum은 웹 사이트에서 사용할 수 있는 더미 텍스트입니다. 재밌는 이번 프로젝트를 통해 여러분의 창의성을 뽐내고 여러분만의 텍스트를 만들어 보세요.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- parseInt()
-- Math.floor()
-- Math.random()
-- isNaN()
-- slice 메서드
-- event.preventDefault()
+-   parseInt()
+-   Math.floor()
+-   Math.random()
+-   isNaN()
+-   slice 메서드
+-   event.preventDefault()
 
 ### 식료품 리스트 만들기
 
 ![식료품 리스트](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/grocery-list.png)
 
+이 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=22703s)에서는 장바구니 리스트에서 아이템을 추가하고 삭제할 수 있는 방법과 간단한 CRUD(Create, Read, Update, Delete) 앱을 만드는 방법에 대해 소개합니다.
+
+CRUD는 풀스택 애플리케이션에서 굉장히 중요한 부분을 차지합니다. 이 기능이 없으면 여러분은 SNS에서 게시글을 수정하거나 삭제하는 것과 같은 일을 할 수 없을 것입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- DOMContentLoaded
-- new Date()
-- createAttribute()
-- setAttribute()
-- appendChild()
-- filter()
-- map()
+-   DOMContentLoaded
+-   new Date()
+-   createAttribute()
+-   setAttribute()
+-   appendChild()
+-   filter()
+-   map()
 
 ### 이미지 슬라이더 만들기
 
 ![이미지 슬라이더](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/image-slider.png)
 
+이번 [튜토리얼](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28874s)에서는 어떤 사이트에도 추가 가능한 이미지 슬라이더를 만드는 방법에 대해 소개합니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- querySelectorAll()
-- addEventListener()
-- forEach()
-- if/else statements
+-   querySelectorAll()
+-   addEventListener()
+-   forEach()
+-   if/else statements
 
 ### 가위바위보 게임 만들기
 
 ![가위바위보 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/rock-paper-scissors.png)
 
+이 [튜토리얼](https://www.youtube.com/watch?v=jaVNP3nIAv0)에서는 Tenzin이 가위바위보 게임을 만드는 방법을 소개합니다. DOM 연습을 추가적으로 해볼 수 있는 재미있는 프로젝트입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- addEventListener()
-- Math.floor()
-- Math.random()
-- switch문
+-   addEventListener()
+-   Math.floor()
+-   Math.random()
+-   switch문
 
 ### 사이먼 게임 만들기
 
 ![사이먼 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/simon-game.png)
 
+이 [튜토리얼](https://www.youtube.com/watch?v=n_ec3eowFLQ)에서는 Beau Carnes가 사이먼 게임을 만드는 방법에 대해 소개합니다. 이번 프로젝트는 게임 속 다양한 요소들과 각각의 기능을 구현하는 방법에 대해 생각해볼 수 있는 좋은 프로젝트입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- querySelector()
-- addEventListener()
-- setInterval()
-- clearInterval()
-- setTimeout()
-- play()
-- Math.floor()
-- Math.random()
+-   querySelector()
+-   addEventListener()
+-   setInterval()
+-   clearInterval()
+-   setTimeout()
+-   play()
+-   Math.floor()
+-   Math.random()
 
 ### 플랫포머 게임 만들기
 
 ![플랫포머 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/platformer-game.png)
 
+이 [튜토리얼](https://www.youtube.com/watch?v=w-OKdSHRlfA)에서는 Frank Poth가 플랫포머 게임을 만드는 방법에 대해 소개합니다. 이번 프로젝트를 통해 객체 지향 프로그래밍의 원칙과 모델, 뷰, 컨트롤러로 구성된 소프트웨어 패턴(MVC Pattern)에 대해 학습할 수 있습니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- this 키워드
-- for 반복문
-- switch문
-- OOP 원칙
-- MVC 패턴
-- 캔버스 API
+-   this 키워드
+-   for 반복문
+-   switch문
+-   OOP 원칙
+-   MVC 패턴
+-   캔버스 API
 
 ### 두들 점프와 플래피 버드 게임 만들기
 
 ![JS 튜토리얼 썸네일](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/doodle-jump.png)
 
+Ania Kubox는 이 [영상 시리즈](https://www.youtube.com/watch?v=8xPsg6yv7TU&t=0s)에서 두들 점프와 플래피 버드 게임을 만드는 방법에 대해 소개합니다.
+
+게임을 만들어보면 자바스크립트를 재미있게 학습할 수 있으며 자주 쓰이는 자바스크립트 메서드를 다루게 될 것입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- createElement()
-- forEach()
-- setInterval()
-- clearInterval()
-- removeChild()
-- appendChild()
-- addEventListener()
-- removeEventListener()
+-   createElement()
+-   forEach()
+-   setInterval()
+-   clearInterval()
+-   removeChild()
+-   appendChild()
+-   addEventListener()
+-   removeEventListener()
 
 ### Ania Kubow와 7개의 자바스크립트 게임 만들기
 
 ![Ania Kubow](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/7-js-games.png)
 
+Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 재미있는 게임 일곱가지를 소개하고 있습니다.
+
+1. [메모리 게임](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=115s)
+2. [두더지 잡기](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=699s)
+3. [커넥트 포 게임](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=1187s)
+4. [뱀 게임](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=1657s)
+5. [스페이스 인베이더](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=2590s)
+6. [프로거 게임](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=3546s)
+7. [테트리스](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=4778s)
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- for 반복문
-- onclick 이벤트
-- 화살표 함수
-- sort()
-- pop()
-- unshift()
-- push()
-- indexOf()
-- includes()
-- splice()
-- concat()
+-   for 반복문
+-   onclick 이벤트
+-   화살표 함수
+-   sort()
+-   pop()
+-   unshift()
+-   push()
+-   indexOf()
+-   includes()
+-   splice()
+-   concat()
 
 ## 리액트 프로젝트
+
+아직 리액트 기초 내용이 익숙하지 않다면 프로젝트를 진행하기 전에 이 [강의](https://www.youtube.com/watch?v=4UZrsTqkcW4)를 먼저 들으시는 것을 추천드립니다.
 
 ### 리액트 훅을 사용해 틱택토 게임 만들기
 
@@ -380,9 +416,9 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- useState()
-- import / export
-- JSX
+-   useState()
+-   import / export
+-   JSX
 
 ### 리액트 훅을 사용해 테트리스 게임 만들기
 
@@ -390,11 +426,11 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- useState()
-- useEffect()
-- useRef()
-- useCallback()
-- styled components
+-   useState()
+-   useEffect()
+-   useRef()
+-   useCallback()
+-   styled components
 
 ### 생일 알림 앱 만들기
 
@@ -402,10 +438,10 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- useState()
-- import / export
-- JSX
-- map()
+-   useState()
+-   import / export
+-   JSX
+-   map()
 
 ### 여행 페이지 만들기
 
@@ -413,10 +449,10 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- try...catch문
-- async/await
-- useEffect()
-- useState()
+-   try...catch문
+-   async/await
+-   useEffect()
+-   useState()
 
 ### 아코디언 메뉴 만들기
 
@@ -424,9 +460,9 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- 리액트 아이콘
-- useState()
-- map()
+-   리액트 아이콘
+-   useState()
+-   map()
 
 ### 포트폴리오 만들기
 
@@ -434,10 +470,10 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- async/await
-- 리액트 아이콘
-- useEffect()
-- useState()
+-   async/await
+-   리액트 아이콘
+-   useEffect()
+-   useState()
 
 ### 리뷰 슬라이더 만들기
 
@@ -445,10 +481,10 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- 리액트 아이콘
-- useEffect()
-- useState()
-- map()
+-   리액트 아이콘
+-   useEffect()
+-   useState()
+-   map()
 
 ### 컬러 제너레이터 만들기
 
@@ -456,12 +492,12 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- setTimeout()
-- clearTimeout()
-- useEffect()
-- useState()
-- try...catch문
-- event.preventDefault()
+-   setTimeout()
+-   clearTimeout()
+-   useEffect()
+-   useState()
+-   try...catch문
+-   event.preventDefault()
 
 ### Stripe 결제 페이지 만들기
 
@@ -469,11 +505,11 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- 리액트 아이콘
-- useRef()
-- useEffect()
-- useState()
-- useContext()
+-   리액트 아이콘
+-   useRef()
+-   useEffect()
+-   useState()
+-   useContext()
 
 ### 장바구니 페이지 만들기
 
@@ -481,11 +517,11 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- map()
-- filter()
-- `<svg>` 요소
-- useReducer()
-- useContext()
+-   map()
+-   filter()
+-   `<svg>` 요소
+-   useReducer()
+-   useContext()
 
 ### 칵테일 검색 페이지 만들기
 
@@ -493,12 +529,12 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- `<Router>`
-- `<Switch>`
-- useCallback()
-- useContext()
-- useEffect()
-- useState()
+-   `<Router>`
+-   `<Switch>`
+-   useCallback()
+-   useContext()
+-   useEffect()
+-   useState()
 
 ## 타입스크립트 프로젝트
 
@@ -508,9 +544,9 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- React.FC
-- styled components
-- dangerouslySetInnerHTML
+-   React.FC
+-   styled components
+-   dangerouslySetInnerHTML
 
 ### 타입스크립트로 알카노이드 게임 만들기
 
@@ -518,7 +554,7 @@ Yazeed Bzadough는 [이 글](https://www.freecodecamp.org/news/a-quick-intro-to-
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
-- 타입
-- 클래스
-- 모듈
-- HTMLCanvasElement
+-   타입
+-   클래스
+-   모듈
+-   HTMLCanvasElement
