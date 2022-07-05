@@ -414,15 +414,21 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![틱택토 썸네일](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tic-tac-game-1.png)
 
+Per Harald Borgen는 이 [프리코드캠프 글](https://www.freecodecamp.org/news/learn-how-to-build-tic-tac-toe-with-react-hooks/)에서 Thomas Weibenfalk가 제공한 틱택토 게임 튜토리얼에 대해 설명하고 있습니다. Scrimba의 유튜브 채널에서 [영상 강의](https://www.youtube.com/watch?v=Z5RbPrK4VqM)를 확인해보세요.
+
+이 프로젝트는 리액트 기초 내용을 익히고 훅을 연습하기에 좋은 프로젝트입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   useState()
 -   import / export
 -   JSX
 
-### 리액트 훅을 사용해 테트리스 게임 만들기
+### 리액트 훅을 사용해 테트리스 만들기
 
 ![테트리스 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/react-tetris-1.png)
+
+이번 [튜토리얼](https://www.youtube.com/watch?v=ZGOaCxX8HIU)에서는 Thomas Weibenfalk가 리액트 훅과 styled components를 사용해 테트리스를 만들 수 있는 방법에 대해 소개합니다.
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
@@ -436,6 +442,10 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![생일 알림 앱](https://www.freecodecamp.org/news/content/images/2021/03/brithday-app.png)
 
+John Smilga의 [강의](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=438s)에서는 생일 알림 앱을 만드는 방법에 대해 학습할 수 있습니다. 이 프로젝트는 리액트 기초 내용을 학습하고 훅을 연습하기에 좋은 프로젝트입니다.
+
+먼저 파일 설정을 위해 John의 [영상](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=214s)을 보는 것을 추천드립니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   useState()
@@ -446,6 +456,10 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 ### 여행 페이지 만들기
 
 ![color flipper](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tours-page.png)
+
+이 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=1181s)에서는 사용자가 관심 없는 여행지를 삭제할 수 있는 여행 사이트를 만드는 방법에 대해 소개합니다.
+
+이 프로젝트를 하면서 리액트 훅과 async/await 문법을 연습할 수 있을 것입니다.
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
@@ -458,6 +472,8 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![아코디언 메뉴](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/accordion-react.png)
 
+이번 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=4642s)에서는 Q& 아코디언을 만드는 방법에 대해 설명합니다. 사용자에게 혁신적인 방법으로 컨텐츠를 보여줄 때 유용한 방식입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   리액트 아이콘
@@ -467,6 +483,8 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 ### 포트폴리오 만들기
 
 ![포트폴리오](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/tabs-portfolio-page-react.png)
+
+이번 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=6726s)에서는 가짜 포트폴리오 웹 페이지에서 탭을 만드는 방법에 대해 설명합니다. 탭은 싱글 페이지 애플리케이션에서 서로 다른 내용을 보여줄 때 유용하게 사용됩니다.
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
@@ -479,6 +497,10 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![리뷰 슬라이더](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/react-slider.png)
 
+이번 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=8020s)에서는 몇 초마다 새로운 리뷰를 보여주는 리뷰 슬라이더를 만드는 법에 대해 설명합니다.
+
+리뷰 슬라이더는 전자 상거래 사이트나 포트폴리오에 넣을 수 있는 훌륭한 기능입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   리액트 아이콘
@@ -489,6 +511,8 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 ### 컬러 제너레이터 만들기
 
 ![컬러 제너레이터](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/react-color-generator.png)
+
+이 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=11329s)을 통해 컬러 제너레이터를 만드는 방법에 대해서 학습할 수 있습니다. 훅과 setTimeout 함수를 연습하기에 좋은 프로젝트입니다.
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
@@ -503,6 +527,8 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![리뷰 슬라이더](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/stripe-page.png)
 
+이 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=20686s)에서는 Stripe 사의 결제 페이지를 구현하는 방법에 대해 설명합니다. 이 프로젝트는 리액트 컴포넌트를 사용해 상품 랜딩 페이지를 디자인할 수 있는 방법을 연습하기에 좋은 프로젝트입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   리액트 아이콘
@@ -515,6 +541,8 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![장바구니 페이지](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/shopping-cart-page.png)
 
+이 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=24115s)에서는 상품을 추가하고 삭제할 수 있는 장바구니 페이지를 구현합니다. useReducer 훅을 맛보기에 좋은 프로젝트가 될 것입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   map()
@@ -526,6 +554,10 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 ### 칵테일 검색 페이지 만들기
 
 ![칵테일 검색 페이지](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/cocktails-page.png)
+
+이 [튜토리얼](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=27597s)에서는 칵테일 검색 페이지를 구현합니다. 이 프로젝트를 통해 리액트 라우터 사용 방법에 대해 익힐 수 있습니다.
+
+리액트 라우터는 웹 사이트 내에서 이동하고 소개 페이지나 연락 페이지와 같은 다른 컴포넌트를 보여줄 수 있도록 해주는 기능입니다.
 
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
@@ -542,6 +574,8 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![퀴즈 앱](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/quiz-app.png)
 
+Thomas Weibenfalk는 이 [튜토리얼](https://www.youtube.com/watch?v=F2JCjVSZlG0)에서 리액트와 타입스크립트로 퀴즈 앱을 만드는 방법에 대해 소개합니다. 타입스크립트의 기본 내용을 학습하기에 좋은 프로젝트입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   React.FC
@@ -552,9 +586,15 @@ Ania Kybow는 이 [강의](https://www.youtube.com/watch?v=lhNdUVh3qCc)에서 �
 
 ![알카노이드 게임](https://www.freecodecamp.org/news/content/images/size/w1000/2021/03/akrnoid-game.png)
 
+이번 [튜토리얼](https://www.youtube.com/watch?v=7bejSTim38A)에서는 타입스크립트로 클래식 게임인 알카노이드 게임을 만드는 방법에 대해 설명합니다. 이번 프로젝트 역시 타입스크립트의 기본 내용을 학습하기에 좋은 프로젝트가 될 것입니다.
+
 이 프로젝트에서 다뤄지는 주요 개념은 다음과 같습니다:
 
 -   타입
 -   클래스
 -   모듈
 -   HTMLCanvasElement
+
+바닐라 자바스크립트, 리액트, 타입스크립트를 통해 40가지의 프로젝트를 재밌게 즐기시길 바랍니다.
+
+즐거운 코딩하세요!
